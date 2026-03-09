@@ -3,6 +3,27 @@
 # Garuda-Linux-ARM
 Not affiliated By Garuda Linux BTW I Ported Garuda Linux To ARM Because Garuda Linux Didnt
 
+# What Is This
+  Garuda Linux ARM is a Garuda Linux for ARM computers. We provide targeted kernel and software support for hard-float ARMv7 with NEON and ARMv8 AArch64 instruction sets on a variety of consumer devices and development platforms.
+
+  Garuda Linux ARM carries forward the Garuda Linux philosophy and arch linux arm base of simplicity and user-centrism, targeting and accommodating competent Linux users by giving them complete control and responsibility over the system. 
+  Instructions are provided to assist in navigating the nuances of installation on the various ARM platforms; however, the system itself will offer little assistance to the user.
+
+  The entire distribution is on a rolling-release cycle that can be updated daily through small packages instead of huge updates on a defined release schedule. Most packages are unmodified from what the upstream developer originally released.
+
+# How It Works
+  Simple
+  
+  We are a port of Garuda Linux, which aims for simplicity and full control to the end user. We provide a light-weight base structure that allows you to shape the system to your needs.
+  
+  Optimized
+
+  We build optimized packages for hard-float ARMv7 with NEON and ARMv8 AArch64 instruction sets to use each platform to its full potential.
+  
+  Up to Date
+
+  New software versions are packaged as they are released, ensuring you are always on the leading edge of stable software releases.
+
 # How To Install Garuda Linux ARM
 
 1 Download Iso Here https://archlinuxarm.org/ 2 Flash The Iso 3 Enter The Archiso 4 Setup Arch Linux ARM 5 If You Havent Install nano run sudo pacman -S nano 6 Run sudo nano /etc/os-release 7 Change The Text Arch Linux ARM To Garuda Linux ARM Example
