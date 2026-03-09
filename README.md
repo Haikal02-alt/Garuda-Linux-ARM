@@ -64,5 +64,5 @@ NAME="Garuda Linux ARM" PRETTY_NAME="Garuda Linux ARM" ID=garudaarm ID_LIKE=arch
 <img width="1920" height="1080" alt="Wave" src="https://github.com/user-attachments/assets/5cee6341-b405-4688-ae0e-ac7dd4c92b19" />
 <img width="1920" height="1080" alt="White Tailed Eagle" src="https://github.com/user-attachments/assets/0c4d5b5a-f6ff-4a1f-b2b5-78332f71aaf2" />
 
-# Select Logo If You Have Desktop Environment then save to Downloads and name it garuda-linux-logo.png and run sudo mv /home/yourusername/Downloads/garuda-linux-logo.png /usr/share/pixmaps
+# Select Logo If You Have Desktop Environment then save to Downloads and name it garudalinux-logo.png and run sudo mv /home/yourusername/Downloads/garudalinux-logo.png /usr/share/pixmaps then sudo cp /usr/share/pixmaps/garudalinux-logo.png /usr/share/pixmaps/archlinux-logo.png sudo cp /usr/share/pixmaps/garudalinux-logo.png /usr/share/pixmaps/archlinux-logo.svg sudo cp /usr/share/pixmaps/garudalinux-logo.png /usr/share/pixmaps/archlinux-logo-text.svg sudo cp /usr/share/pixmaps/garudalinux-logo.png /usr/share/pixmaps/archlinux-logo-text-dark.svg
 <img width="256" height="256" alt="garudalinux-logo" src="https://github.com/user-attachments/assets/54887743-1186-4436-8787-dc95de2ad2fc" />
