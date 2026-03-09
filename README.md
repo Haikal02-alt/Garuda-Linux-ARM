@@ -1,7 +1,7 @@
 <img width="545" height="140" alt="Screenshot From 2026-03-09 13-24-26" src="https://github.com/user-attachments/assets/86a070cc-5772-4f5c-8222-d01d8f3df560" />
 
 # Garuda-Linux-ARM
-Not affiliated By Garuda Linux BTW I Ported Garuda Linux To arm Because Garuda Linux Didnt
+Not affiliated By Garuda Linux BTW I Ported Garuda Linux To ARM Because Garuda Linux Didnt
 
 # How To Install Garuda Linux ARM
 
